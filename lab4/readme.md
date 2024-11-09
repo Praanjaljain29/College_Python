@@ -1,2 +1,1 @@
-hi in this folder there are lab4 python codes
-
+This repo contain some Basic Python Programs which I did in 2nd Semester
